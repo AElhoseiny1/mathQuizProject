@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(28, 194, 194);
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    margin:auto;
+   
+ }
+
+ #btn{
+  
+    width: 200px;
+ }
+
+ #output{
+     background-color: white;
+     border-radius: 10px;
+     border-top: 10px solid blue;
+     padding: 10px;
+     float: none;
+     text-align: left;
+ }

@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(28, 194, 194);
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    margin:auto;
+   
+ }
+ div{
+    margin:auto;
+    width:50%;
+    height: 20%;
+    background-color: cornsilk;
+    border:2px solid crimson;
+    border-radius: 25px;
+ }
+ 
+ 
+ input{
+    width: 55%;
+ }
+ 
+ 
+ #btn{
+  
+    width: 200px;
+ }
+ 
+ 
+ 
